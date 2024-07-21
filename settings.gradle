@@ -1,0 +1,6 @@
+rootProject.name = 'saron-session-management-service'
+include 'session-management-service-controller'
+include 'session-management-service-persistance'
+include 'session-management-service-model'
+include 'session-management-service-flow'
+
